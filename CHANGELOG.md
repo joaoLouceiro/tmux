@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/catppuccin/tmux/compare/v1.0.0...v1.0.1) (2024-10-04)
+
+
+### Bug Fixes
+
+* **readme:** fix the example configurations ([#343](https://github.com/catppuccin/tmux/issues/343)) ([06183b3](https://github.com/catppuccin/tmux/commit/06183b31216b4ed917760b3d59565e242eee6a64))
+
 ## [1.0.0](https://github.com/catppuccin/tmux/compare/v0.4.0...v1.0.0) (2024-10-02)
 
 
